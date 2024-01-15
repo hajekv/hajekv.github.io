@@ -1,11 +1,9 @@
-/* Styly pro vzhled webu */
-
 body {
-    font-family: 'Comic Sans MS', cursive, sans-serif; /* Pro dětský vzhled */
+    font-family: 'Comic Sans MS', cursive, sans-serif;
 }
 
 header {
-    background-color: #ffcc99; /* Různé barvy pro každou stránku */
+    background-color: #ffcc99;
     padding: 10px;
 }
 
